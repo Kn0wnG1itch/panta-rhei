@@ -28,7 +28,7 @@ Feel free to explore each category by navigating to the respective Markdown file
 
 ## Disclaimer
 
-Please note that this branch may contain links or information that could be outdated or incorrect. For more details, please refer to the [main disclaimer](./DISCLAIMER.md).
+Please note that this branch may contain links or information that could be outdated or incorrect. For more details, please refer to the [disclaimer in the main branch](https://github.com/Kn0wnG1itch/panta-rhei/blob/main/DISCLAIMER.md).
 
 Thank you for your understanding.
 
